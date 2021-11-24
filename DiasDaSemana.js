@@ -15,3 +15,7 @@ console.log(diasdasemana[3]);
 console.log(diasdasemana[4]);
 console.log(diasdasemana[5]);
 console.log(diasdasemana[6]);
+
+//Git add para adicionar comando : git add "pasta"
+//Git Commit para embrulhar comando : git -m "texto"
+//Git push origin nome da brange
